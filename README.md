@@ -30,12 +30,3 @@
 <img src="https://img-blog.csdnimg.cn/20210514161505403.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NoZXJsb29vY2s=,size_16,color_FFFFFF,t_70#pic_center" width="100%">
 <img src="https://img-blog.csdnimg.cn/20210514161647802.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NoZXJsb29vY2s=,size_16,color_FFFFFF,t_70#pic_center" width="100%">
 <img src="https://img-blog.csdnimg.cn/20210514161706414.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NoZXJsb29vY2s=,size_16,color_FFFFFF,t_70#pic_center" width="100%">
-
-# 二、运行视频📹
-了解更多关于系统的运行效果，可以点击下方观看演示视频
-
-[👉🏻系统演示视频]()
-<font color=gray size=2>亲测，值得一看~</font>
-
-# 三、运行教程
-若下载源码后不知如何顺利运行，请参考[运行教程](https://blog.csdn.net/Sherlooock/article/details/116795048)（文章第三部分）
