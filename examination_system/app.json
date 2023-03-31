@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/student/index/index",
+    "pages/building-announcement/index",
+    "pages/room-notification/index",
+    "pages/account-management/index",
+    "pages/user-account-management/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "宿舍管理系统",
+    "navigationBarTextStyle": "black"
+  },
+  "useExtendedLib": {
+    "kbone": true,
+    "weui": true
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#1aad19",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/building-announcement/index",
+        "text": "楼栋通告",
+        "iconPath": "/images/building-announcement.png",
+        "selectedIconPath": "/images/building-announcement.png"
+      },
+      {
+        "pagePath": "pages/room-notification/index",
+        "text": "房间通知",
+        "iconPath": "/images/room-notification.png",
+        "selectedIconPath": "/images/room-notification.png"
+      },
+      {
+        "pagePath": "pages/account-management/index",
+        "text": "记账管理",
+        "iconPath": "/images/account-management.png",
+        "selectedIconPath": "/images/account-management.png"
+      },
+      {
+        "pagePath": "pages/user-account-management/index",
+        "text": "账号管理",
+        "iconPath": "/images/user-account-management.png",
+        "selectedIconPath": "/images/user-account-management.png"
+      }
+    ]
+  }
+}
